@@ -1,12 +1,14 @@
 # inShare file sharing app apis
 
-Rest api using Node, Express, Mongo.
+Backend Tech used-Rest api using Node, Express, Mongo.
+Frontend Tech used- HTML, CSS, JavaScript.
+
 We will build rest api for a simple file sharing app. 
 
 ![demo gif](https://github.com/ShivamJoker/GIF-Demos/raw/master/inshare%20demo.gif)
 
-### Frontend source code can be found on @ShivamJoker Github
-https://github.com/ShivamJoker/InShare
+
+https://github.com/Saransh2024/File-Sharing-Application
 
 
 ## Installation 
@@ -15,5 +17,4 @@ also do not forget to rename `.env.example` into `.env` an put all creadentials.
 
 🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
 # File-Sharing-Application
-# File-Sharing-Application
-# File-Sharing-Application
+# File-Sharing-System
